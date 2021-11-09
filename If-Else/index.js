@@ -1,4 +1,4 @@
-// Conditional Statements
+// Conditional Statements (if-else)
 
 // if (condition1) {
 //     statements
